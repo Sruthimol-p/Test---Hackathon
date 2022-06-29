@@ -1,0 +1,5 @@
+requests
+psycopg2
+bs4
+configparser
+nltk
